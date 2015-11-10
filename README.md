@@ -1,12 +1,9 @@
 ---
-
 This is comment area
-
 /# Forked for Learning purposes
 /#/# Original one looks nice and simple
 /#/# Forked for experimental learning(lel)
 /#/#[Original README](https://github.com/v32itas/robo-lite/blob/master/README)
-
 ---
 
 # robo-lite
