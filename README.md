@@ -2,15 +2,12 @@
 author:
     name: Matt Hayes
     email: nobomb@gmail.com
-description: 'irc,perl,api,bot,modules'
-published: 'Feb 28, 2010'
-modified: 'Nov 10, 2015'
-modified_by:
-    name: Knowledge Society Lithuania
-title: 'robo-lite IRC Bot'
+    published: 'Feb 28, 2010'
+
 contributor:
     name: v32itas
-    link: https://github.com/v32itas
+    fork link: https://github.com/v32itas/robo-lite
+    modified: 'Nov 10, 2015'
 ---
 
 # robo-lite
