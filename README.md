@@ -4,7 +4,7 @@
 
 ## Getting started
 
-### Installing perl modules([how-to](http://www.cpan.org/modules/INSTALL.html):
+### Installing perl modules([how-to](http://www.cpan.org/modules/INSTALL.html)):
 
 #### Required:
 1. [Config::Tiny](http://search.cpan.org/~rsavage/Config-Tiny-2.23/lib/Config/Tiny.pm)
