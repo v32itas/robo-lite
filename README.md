@@ -1,9 +1,16 @@
 ---
-This is comment area
-/# Forked for Learning purposes
-/#/# Original one looks nice and simple
-/#/# Forked for experimental learning(lel)
-/#/#[Original README](https://github.com/v32itas/robo-lite/blob/master/README)
+author:
+    name: Matt Hayes
+    email: nobomb@gmail.com
+description: 'irc,perl,api,bot,modules'
+published: 'Feb 28, 2010'
+modified: 'Nov 10, 2015'
+modified_by:
+    name: Knowledge Society Lithuania
+title: 'robo-lite IRC Bot'
+contributor:
+    name: v32itas
+    link: https://github.com/v32itas
 ---
 
 # robo-lite
@@ -35,3 +42,5 @@ This is comment area
 
 1. Attempt to make your own modules.
 2. Check out the example modules. I'll write something up later.
+
+### [Original README](https://github.com/v32itas/robo-lite/blob/master/README)
