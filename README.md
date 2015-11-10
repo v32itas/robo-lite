@@ -1,15 +1,3 @@
----
-author:
-    name: Matt Hayes
-    email: nobomb@gmail.com
-    published: 'Feb 28, 2010'
-
-contributor:
-    name: v32itas
-    fork link: https://github.com/v32itas/robo-lite
-    modified: 'Nov 10, 2015'
----
-
 # robo-lite
 
 > Lightweight, modular, IRC bot written in perl.
@@ -41,3 +29,14 @@ contributor:
 2. Check out the example modules. I'll write something up later.
 
 ### [Original README](https://github.com/v32itas/robo-lite/blob/master/README)
+---
+author:
+    name: Matt Hayes
+    email: nobomb@gmail.com
+    published: 'Feb 28, 2010'
+
+contributor:
+    name: v32itas
+    fork link: https://github.com/v32itas/robo-lite
+    modified: 'Nov 10, 2015'
+---
